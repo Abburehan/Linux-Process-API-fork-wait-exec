@@ -26,11 +26,6 @@ Test the C Program for the desired output.
 ## C Program to print process ID and parent Process ID using Linux API system calls
 
 
-
-
-
-
-
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ```
 #include <stdio.h>
@@ -53,25 +48,8 @@ int main(void)
 	return 0; }
  ```
 
-
-
-
-
-
-
-
-
-
-
-##OUTPUT
+## OUTPUT
 ![image](https://github.com/Jeshwanthkumarpayyavula/Linux-Process-API-fork-wait-exec/assets/145742402/c110fb46-397d-42a0-b920-e08953e6fd96)
-
-
-
-
-
-
-
 
 ## C Program to create new process using Linux API system calls fork() and exit()
 ```
@@ -90,27 +68,8 @@ sleep(100);
 exit(0);}
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-##OUTPUT
+## OUTPUT
 ![image](https://github.com/Jeshwanthkumarpayyavula/Linux-Process-API-fork-wait-exec/assets/145742402/6931ddaf-2e5d-4eff-8ec9-3d6ad65b3ea0)
-
-
-
-
-
-
-
-
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ```
@@ -137,24 +96,10 @@ printf("Running ps with execlp. Now with path specified\n");
         printf("Done.\n");
         exit(0);}
 ```
-##OUTPUT
+
+## OUTPUT
 
 ![image](https://github.com/Jeshwanthkumarpayyavula/Linux-Process-API-fork-wait-exec/assets/145742402/33bec6e8-9091-4a0a-a14a-b0b02a8c6c0b)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # RESULT:
